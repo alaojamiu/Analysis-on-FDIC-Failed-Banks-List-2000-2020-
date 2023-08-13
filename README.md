@@ -60,6 +60,7 @@ You can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIj
 
 ![](count_of_cities.jpg)
 
+
 ### Count of Acquiring Institutions
 ![](count_of_acq.jpg)
 ### Total Lost Funds by Year 
@@ -86,7 +87,7 @@ At $202,858, Chicago, IL recorded the highest lost funds followed by Atlanta, GA
 The involvement of acquiring institutions in the aftermath of bank failures signifies efforts to stabilize the industry.
 31 banks have No Acquirer, State Bank and Trust Company acquired 12 banks followed by First-Citizens Bank and Trust Company which acquired 11 banks.
 
-![](count_of banks_by_acq.jpg)
+![](count_of_banks_by_acq.jpg)
 
 
 ### Count of failed Banks by City
